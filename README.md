@@ -1,2 +1,2 @@
 # android-gradle-plugin
-你好!
+https://github.com/cuichenxi/android-gradle-plugin/blob/dev/gradlePlugin/shot/peizhi.jpg
