@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.justravel.plugin</groupId>
+  <artifactId>gradleplugin</artifactId>
+  <version>1.1.0-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20161213.053133</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20161213053133</lastUpdated>
+  </versioning>
+</metadata>
